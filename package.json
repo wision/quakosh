@@ -8,12 +8,15 @@
   },
   "author": "wision",
   "license": "Apache-2.0",
+  "engines": {
+    "node": "12.13"
+  },
   "dependencies": {
-    "async": "^2.5.0",
-    "discord.js": "^11.1.0",
-    "dotenv": "^4.0.0",
+    "async": "^3.1.0",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
     "irc": "^0.5.2",
-    "moment": "^2.18.1",
-    "sqlite3": "^3.1.8"
+    "moment": "^2.24.0",
+    "sqlite3": "^4.1.0"
   }
 }
