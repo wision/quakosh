@@ -1,4 +1,4 @@
-[llama]
+﻿[llama]
 1=nobody
 2=JackC|wrx
 [nasrat.cz]
@@ -46368,6 +46368,9 @@ deleted=1
 [my_cuky]
 1=$nick $+ 's Parkinson is around $rand(1,110) $+ %
 2=moris
+[my_depka]
+1=$nick $+ 's will to live is around $rand(1,110) $+ %
+2=Depka
 [test66]
 1=bla
 2=iBh|123
@@ -51382,6 +51385,9 @@ deleted=1
 [ccv]
 1=cau cuky, vid
 2=X-Mas|Firamir
+[cdev]
+1=cau Depko, vid
+2=Depka
 [rex_darky_2008]
 1=HP Photosmart C5280, rucnik pro sport z mikrovlaken, sex primo pod stromeckem
 2=XMAS|rex
@@ -51701,7 +51707,7 @@ deleted=1
 1=match with Finland
 2=itmik
 [nu,_pagadi!]
-1=ĐťŃ  ĐźĐľĐłĐľĐ´Đ¸!
+1=ĐťŃ  ĐźĐľĐłĐľĐ´Đ¸!
 2=noby
 [housky]
 1=Housky @ http://205.188.215.225:8004/listen.pls [D I G I T A L L Y - I M P O R T E D - Classic Electronica - old school techno, trance & rave!]
@@ -53070,7 +53076,7 @@ deleted=1
 1=http://www.dumpert.nl/mediabase/283981/015485d9/allah_hakbar_.html
 2=Vloody
 [muslims]
-1=http://bpeinfo.files.wordpress.com/2010/03/12557164255491.jpg :: Ů Ů†ŘŞ Ř§ŘłŮ„Ř§Ů…ŮŠď»ż ŘĄŘ±Ů‡Ř§Ř¨ŮŠ
+1=http://bpeinfo.files.wordpress.com/2010/03/12557164255491.jpg :: Ů Ů†ŘŞ Ř§ŘłŮ„Ř§Ů…ŮŠď»ż ŘĄŘ±Ů‡Ř§Ř¨ŮŠ
 2=iBh|123
 [mql]
 1=mrdat QL !
@@ -53665,7 +53671,7 @@ deleted=1
 1=$rand($2,$3)
 2=iBh|123
 [white_black]
-1=â şâ »
+1=â şâ »
 2=iBh|123
 [gute_morgen]
 1=gute $+ $eval($+($,c,hr(2)),2) $+ n $+ $eval($+($,c,hr(2)),2) Morgen
@@ -55531,16 +55537,16 @@ deleted=1
 1=http://i.imgur.com/UWMJD.jpg
 2=BuurVrouw
 [chu]
-1=(ă Ąď˝ˇâ—•â€żâ€żâ—•ď˝ˇ)ă Ą
+1=(ă Ąď˝ˇâ—•â€żâ€żâ—•ď˝ˇ)ă Ą
 2=BuurVrouw
 [whey]
-1=ă ˝(ă‚śâ ‡ă‚ś)ă Ž
+1=ă ˝(ă‚śâ ‡ă‚ś)ă Ž
 2=matuka
 [cuuuuuute]
 1=â—• â—ˇ â—•
 2=matuka
 [yeeeaaah]
-1=(â žďľźă ®ďľź)â ž
+1=(â žďľźă ®ďľź)â ž
 2=matuka
 [my_szybkiLOPEZ]
 1=$iif(szybki isin $nick, $nick has a 100, $nick has a $rand(1, 99)) $+ % unpronouncable nickname
@@ -55553,7 +55559,7 @@ deleted=1
 1=http://cdn.roumen.cz/kecy/pentagram_bondage.jpg
 2=itmik
 [chuchu]
-1=(ă Ąď˝ˇâ—•â€żâ€żâ—•ď˝ˇ)ă Ą ă ¨(ď˝ˇâ—•â€żâ€żâ—•ď˝ˇă ¨)
+1=(ă Ąď˝ˇâ—•â€żâ€żâ—•ď˝ˇ)ă Ą ă ¨(ď˝ˇâ—•â€żâ€żâ—•ď˝ˇă ¨)
 2=matuka
 [quen]
 1=http://stats.quakeworld.nu/index.php?a=ffa_ScoreBoard&matchId=174403 :: http://stats.quakeworld.nu/index.php?a=ffa_ScoreBoard&matchId=170008
@@ -55947,7 +55953,7 @@ deleted=1
 1=http://lolzilla.info/images/wzv21zl3km7s1tw6ef.gif
 2=iBh|123
 [hup_holland_hup]
-1=$eval($+($,c,hr(2)),2) $+ $eval($+($,c,hr(3)),2) $+ 0,7 $+ Hup Holland hup Laat de leeuw niet in zâ€™n hempie staan Hup Holland hup Trek het beestje geen pantoffels aan Hup Holland hup Laat je uit â€ t veld niet slaan Want de leeuw op voetbalschoenen durft de hele wereld aan
+1=$eval($+($,c,hr(2)),2) $+ $eval($+($,c,hr(3)),2) $+ 0,7 $+ Hup Holland hup Laat de leeuw niet in zâ€™n hempie staan Hup Holland hup Trek het beestje geen pantoffels aan Hup Holland hup Laat je uit â€ t veld niet slaan Want de leeuw op voetbalschoenen durft de hele wereld aan
 2=iBh|123
 [hol]
 1=HOLLAND
@@ -56150,10 +56156,10 @@ deleted=1
 1=fgh
 2=iBh|123
 [chuchuchu]
-1=(ă Ąď˝ˇâ—•â€żâ€żâ—•ď˝ˇ)ă Ą (ă Ąď˝ˇâ—•â€żâ€żâ—•ď˝ˇ)ă Ą (ă Ąď˝ˇâ—•â€żâ€żâ—•ď˝ˇ)ă Ą
+1=(ă Ąď˝ˇâ—•â€żâ€żâ—•ď˝ˇ)ă Ą (ă Ąď˝ˇâ—•â€żâ€żâ—•ď˝ˇ)ă Ą (ă Ąď˝ˇâ—•â€żâ€żâ—•ď˝ˇ)ă Ą
 2=Matuka
 [uhcuhcuhc]
-1=ă ¨(ď˝ˇâ—•â€żâ€żâ—•ď˝ˇă ¨)ă ¨(ď˝ˇâ—•â€żâ€żâ—•ď˝ˇă ¨)ă ¨(ď˝ˇâ—•â€żâ€żâ—•ď˝ˇă ¨)
+1=ă ¨(ď˝ˇâ—•â€żâ€żâ—•ď˝ˇă ¨)ă ¨(ď˝ˇâ—•â€żâ€żâ—•ď˝ˇă ¨)ă ¨(ď˝ˇâ—•â€żâ€żâ—•ď˝ˇă ¨)
 2=Matuka
 [maplist]
 1=dm6 cmt4 cmt3 aerowalk a2 dm3 four dm2 e1m2 ztndm3 ultrav dm4 pkeg1 dm6 cmt4 cmt3 aerowalk a2
@@ -56435,10 +56441,10 @@ deleted=1
 1=unhealthy
 2=Elguapo
 [rose1]
-1=________â Ľâ™Ą/)_â™Ąâ Ľâ™Ą_____â Ľâ™Ą./ÂŻ"""/')
+1=________â Ľâ™Ą/)_â™Ąâ Ľâ™Ą_____â Ľâ™Ą./ÂŻ"""/')
 2=iBh|123
 [rose2]
-1=ÂŻÂŻÂŻÂŻÂŻÂŻÂŻÂŻÂŻ\)â Ľâ™ĄÂŻâ™Ąâ Ľâ™ĄÂŻÂŻÂŻÂŻâ Ľâ™Ą'\_â€žâ€žâ€žâ€ž\) âť¤...
+1=ÂŻÂŻÂŻÂŻÂŻÂŻÂŻÂŻÂŻ\)â Ľâ™ĄÂŻâ™Ąâ Ľâ™ĄÂŻÂŻÂŻÂŻâ Ľâ™Ą'\_â€žâ€žâ€žâ€ž\) âť¤...
 2=iBh|123
 [sunshine]
 1=http://i.imgur.com/YXqKE.jpg
@@ -56486,7 +56492,7 @@ deleted=1
 1=$calc($date(yyyy)-1985+(($ctime -$ctime(9.9. $+ $date(yy)))/(86400*(365+$iif($calc($date(yy) % 4) = 0, 1))))) years
 2=eb
 [spritze]
-1=â”€â”€â”€â”€â”€â– â– â– â– â– â– â– â– â– â– â• â• â• â• â– 
+1=â”€â”€â”€â”€â”€â– â– â– â– â– â– â– â– â– â– â• â• â• â• â– 
 2=iBh|123
 [score!]
 1=http://tinyurl.com/5wpa53m
@@ -56547,7 +56553,7 @@ deleted=1
 1=http://farm9.staticflickr.com/8214/8265665166_623b250fd5_z.jpg
 2=iBh|123
 [kvinde]
-1=RĂ¸g og LĂ¸g og ond Kvinde, kommer Mands Ă jne til at rinde
+1=RĂ¸g og LĂ¸g og ond Kvinde, kommer Mands Ă jne til at rinde
 2=iBh|123
 [slacker]
 1=Elguapo
@@ -56890,7 +56896,7 @@ deleted=1
 1=http://i.imgur.com/oasgMjI.jpg
 2=iBh|123
 [stern]
-1=â †
+1=â †
 2=iBh|123
 [minesweeper]
 1=http://apina.biz/113969.jpg
