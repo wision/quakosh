@@ -46368,6 +46368,9 @@ deleted=1
 [my_cuky]
 1=$nick $+ 's Parkinson is around $rand(1,110) $+ %
 2=moris
+[my_depka]
+1=$nick $+ 's will to live is around $rand(1,110) $+ %
+2=Depka
 [test66]
 1=bla
 2=iBh|123
@@ -51382,6 +51385,9 @@ deleted=1
 [ccv]
 1=cau cuky, vid
 2=X-Mas|Firamir
+[cdev]
+1=cau Depko, vid
+2=Depka
 [rex_darky_2008]
 1=HP Photosmart C5280, rucnik pro sport z mikrovlaken, sex primo pod stromeckem
 2=XMAS|rex
