@@ -14,42 +14,19 @@ module.exports = {
 			pass: process.env.QUAKOSH_IRC_AUTH_PASS,
 		},
 		channels: [
-			{
-				name: "#quake.cz",
-				type: "irc",
-				proxy: [
-					{
-						name: "czechquake",
-						type: "discord",
-					},
-				],
-			},
-			{
-				name: "#qw.cz",
-				type: "irc",
-			},
-			{
-				name: "#ibh",
-				type: "irc",
-			},
+			
 		],
 		updateUsers: 60 * 1000,
 		updateName: 60 * 1000,
 		colors: ["02", "03", "04", "05", "06", "07", "09", "10", "11", "12", "13"],
 	},
 	discord: {
-		token: process.env.QUAKOSH_DISCORD_TOKEN,
+		token: 'NjUyMDg0MjI4MjM3OTUwOTc2.XejUPw.rODvwF7Vq56pClsyQz89w56Wklo',
 		guildId: '288985933204946946',
 		channels: [
 			{
-				name: "czechquake",
+				name: "general",
 				type: "discord",
-				proxy: [
-					{
-						name: "#quake.cz",
-						type: "irc",
-					},
-				],
 			},
 		]
 	},
